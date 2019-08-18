@@ -5,8 +5,8 @@ In your VeSync Switch name add `{DS}` to be turned on at dusk. Place on a server
 
 Requires
 
-Astral - https://astral.readthedocs.io/en/stable/index.html#sun
-VeSync Wrapper - https://github.com/tylergets/python-vesync
+Astral - https://astral.readthedocs.io/en/stable/index.html#sun <br>
+VeSync Wrapper - https://github.com/tylergets/python-vesync<br>
           
      -requests  
      -wheel 
