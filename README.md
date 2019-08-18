@@ -8,6 +8,6 @@ Python 3.6<br>
 Astral - https://astral.readthedocs.io/en/stable/index.html#sun <br>
 VeSync Wrapper - https://github.com/tylergets/python-vesync<br>
           
- -requests  
- -wheel 
- -twine
+ -requests <br> 
+ -wheel <br>
+ -twine <br>
